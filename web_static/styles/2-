@@ -1,0 +1,8 @@
+common {
+    margin: 0;
+    padding: 0;
+    color: hsl(0, 0%, 28%);
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
